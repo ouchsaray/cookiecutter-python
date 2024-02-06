@@ -5,3 +5,4 @@ A simple template for my own personal Python3.6+ projects utilizing black + isor
 To use:
 
         cruft create https://github.com/timothycrosley/cookiecutter-python/
+        cruft create https://github.com/ouchsaray/cookiecutter-python/
